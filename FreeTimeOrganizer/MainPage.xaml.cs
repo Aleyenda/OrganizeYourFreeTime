@@ -26,5 +26,11 @@ namespace FreeTimeOrganizer
         {
             this.InitializeComponent();
         }
+
+        private void On_Click(object sender, RoutedEventArgs e)
+        {
+            Grid table = new Grid();
+
+        }
     }
 }
